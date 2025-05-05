@@ -54,3 +54,5 @@ TestResult.xml
 nunit-*.xml
 /.vs
 /SmartEnglish/.vs/SmartEnglish/v17
+/SmartEnglish/.vs/SmartEnglish/FileContentIndex
+/.gitignore
